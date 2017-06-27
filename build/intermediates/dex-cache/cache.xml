@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\60a45251995a96dc2a99c4c7ec8bf5bebcd7edd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_4d294eea1b911d4525b1e3166d71f385d41e77c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Bookhalt\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\mail_d9ccbc2d27ce921762f4cd1981460af86b722cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\882d051ec2c5dde57f4ef2cce55d11bb93de8c81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_01ab5c05a6301386ef8fd113270afad3b8862e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_eb0d7dff891e4a231b614f6bf625929bba99077b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\080aa4d064d7f2885fdf73fde2b17f08964bc335\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_a131222ca7df929b319801bf2ced9c604b8ff120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Bookhalt\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\activation_00950f1fbb2c60a768bf151588ddac250dde1031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c97a26db3d6d86a650319697ca7c1ece718a2a9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_adc405ba29971e3ec83662c70422e844962e1c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\f45e15a09fac6a5ff2de0722358aa7ebce9e909e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_f9539d186b558e328fd887e5d66406dd3202272b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\bf16f19e682c4d3a30cedb2701171d5464249cda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_aaac53d2960602f0d259166b3e99e19807bc832f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\f8f88c7e62c14a0845287b193121c6525675c2f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_6ea50c0fe42755fcc11bcc0863782127fe3c4ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\e62ef9c218b743146ae736a979d87562183e72cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_7172f8b1d99a90e56ced90b93ea5173306333e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\970284eae715bb8b5464142742936af453e89a42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_d5fb281b6170425f35c07bb599c6f6758f47a26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c1c8c1852036ea832c87dc8da419a9c51c0faa49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_81993970e5eb33614d20f0b008a94b671ab8cb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\448f32abde11616184c2d217f4889caee92e6cb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_b1bbe5e32bbb744be72c10cb233141e50f36df72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\b367ca2bfc8dc39d600dc72aa751562248c8ed7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_4092abeb463b8606e72870ce6a41484abfcf85a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\573f6313f3c70be257df134ffb68d65a54380596\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\classes_3af50f555f581ce640887db53fee52611d29f83c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Bookhalt\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Owner\Desktop\Bookhalt\app\build\intermediates\pre-dexed\debug\additionnal_9f1f50d658a26bd54e232cbeff17054336ab2eef.jar" />
+    </item>
+
+</items>
